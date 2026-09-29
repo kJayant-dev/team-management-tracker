@@ -1,0 +1,31 @@
+{
+  "team_members": [],
+  "activities": [
+    {
+      "activity_id": 111,
+      "member_id": null,
+      "activity_name": "Legacy Code Refactoring",
+      "description": "Clean up outdated CSS classes and deprecated state calls.",
+      "assigned_date": "2026-08-15",
+      "start_date": "2026-08-16",
+      "due_date": "2026-08-25",
+      "completion_date": "2026-08-24",
+      "priority": "Low",
+      "status": "Completed",
+      "notes": "Historical task for August. (Member removed)",
+      "created_at": "2026-08-15T09:00:00.000Z",
+      "updated_at": "2026-08-24T17:00:00.000Z"
+    }
+  ],
+  "point_transactions": [
+    {
+      "point_id": 2,
+      "member_id": 1,
+      "activity_id": 111,
+      "points": 15,
+      "reason": "Refactored legacy code components efficiently",
+      "point_date": "2026-08-24",
+      "created_at": "2026-08-24T17:05:00.000Z"
+    }
+  ]
+}
